@@ -19,7 +19,7 @@
 - sklearn
 
 ### Usage
-To run the model with WHAS500, use the following command:
+To run the model with WHAS500 dataset, use the following command:
 
 `python eval.py`
 
