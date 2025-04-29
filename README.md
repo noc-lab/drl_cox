@@ -4,7 +4,7 @@
 
 ### Features
 - Implements a **distributionally robust version** of the **Cox Proportional Hazards model** using Wasserstein distance.
-- Utilizes **Random Survival Forests** (RSF)  **Accelerated Failure Time Model** (AFT) and **Penalized Cox Models** as baseline models.
+- Utilizes **Random Survival Forests** (RSF), **Accelerated Failure Time Model** (AFT) and **Penalized Cox Models** as baseline models.
 - Inject contamination to the test datas to simulate distributional shift and compare the performance.
 
 ### Requirements
