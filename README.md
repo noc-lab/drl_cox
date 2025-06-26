@@ -26,3 +26,16 @@ To run the model with WHAS500 dataset, use the following command:
 To run the model with other dataset, use the command line with the following structure:
 
 `python eval.py --data_path /path/to/data.csv --output_path /path/to/results/`
+
+### Citing DRL-Cox
+If you find DRL-Cox useful in your research, please consider citing our paper:
+
+```@misc{jin2025distributionallyrobustlearningsurvival,
+      title={Distributionally Robust Learning in Survival Analysis}, 
+      author={Yeping Jin and Lauren Wise and Ioannis Ch. Paschalidis},
+      year={2025},
+      eprint={2506.01348},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2506.01348}, 
+}
